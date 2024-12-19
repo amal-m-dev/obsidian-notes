@@ -1,0 +1,8 @@
+- what is a number?
+- significance of negative numbers - to show deficits
+- multiplication of a +ve and -1 yields a negative number with abs val of the +ve number
+- on a number line, this can be viewed as a product of the number and 180 deg, i.e, a reversal
+- extrapolate to 2D, if we want to rotate by 90 deg, multiply by  `i` 
+- `i` allows us to view numbers in 2D
+- `Im(z)`, i.e, y axis on a 2D graph, is no less real than the `Re(z)` .
+- 

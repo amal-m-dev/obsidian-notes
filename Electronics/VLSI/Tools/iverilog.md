@@ -1,0 +1,3 @@
+- compile using : ``iverilog -o <output file> <verilog file(.v)>
+- run using : ``vvp <output file>
+- ``$stop`` task invoked during running enters the tool into an interactive debug mode.

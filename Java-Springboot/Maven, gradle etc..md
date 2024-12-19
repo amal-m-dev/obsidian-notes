@@ -1,0 +1,3 @@
+- helps find JAR files for you
+- dependency JAR files will be automatically added
+- 
